@@ -55,8 +55,6 @@ impl App {
             String::from("#FFFFFF"),
         ];
 
-        // canvas.style().set_property("width", &format!("{}px", width)).expect("Unable to set style width");
-        // canvas.style().set_property("height", &format!("{}px", height)).expect("Unable to set style height");
         canvas.set_width(width as u32);
         canvas.set_height(height as u32);
 

@@ -1,7 +1,5 @@
 Trunk | Vanilla | web-sys
 =========================
-An example application demonstrating building a vanilla Rust (no frameworks) WASM web application using web-sys.
+WASM + Rust Poster inspired by Wassily Kandinsky paitings.
 
-Once you've installed Trunk, simply execute `trunk serve --open` from this example's directory, and you should see the web application rendered in your browser.
-
-![Rendered Vanilla example](example-vanilla.png)
+![Wassily Poster](poster.png)
